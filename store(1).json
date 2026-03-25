@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "label": "Dragongame",
+    "bestand": "dragongame.bat",
+    "url": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/mV5menu/main/games/dragongame.bat"
+  },
+  {
+    "id": "2",
+    "label": "LOLBIRD 24 - Vrolijke Vlucht",
+    "bestand": "lolbird24.bat",
+    "url": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/mV5menu/main/games/lolbird24.bat"
+  },
+  {
+    "id": "3",
+    "label": "LOLBIRD 24 WORLD - Het Grote Wereldavontuur",
+    "bestand": "lolbird24world.bat",
+    "url": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/mV5menu/main/games/lolbird24world.bat"
+  }
+]
