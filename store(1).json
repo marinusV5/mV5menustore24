@@ -1,20 +1,32 @@
 [
   {
-    "id": "1",
-    "label": "Dragongame",
+    "id": "4",
+    "label": "Mijn Nieuwe Game",
+    "bestand": "nieuwegame.bat",
+    "url": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/mV5menu/main/games/nieuwegame.bat"
+  },
+  {
+    "id": "5",
+    "label": "Getal Minigame",
+    "bestand": "getalspel.bat",
+    "url": "https://raw.githubusercontent.com/marinusV5/mV5menustore24/games/getalspel.bat"
+  },
+  {
+    "id": "6",
+    "label": "Dragon Game",
     "bestand": "dragongame.bat",
-    "url": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/mV5menu/main/games/dragongame.bat"
+    "url": "https://raw.githubusercontent.com/marinusV5/mV5menustore24/games/dragongame.bat"
   },
   {
-    "id": "2",
-    "label": "LOLBIRD 24 - Vrolijke Vlucht",
+    "id": "7",
+    "label": "Lolbird 24",
     "bestand": "lolbird24.bat",
-    "url": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/mV5menu/main/games/lolbird24.bat"
+    "url": "https://raw.githubusercontent.com/marinusV5/mV5menustore24/games/lolbird24.bat"
   },
   {
-    "id": "3",
-    "label": "LOLBIRD 24 WORLD - Het Grote Wereldavontuur",
+    "id": "8",
+    "label": "Lolbird 24 World",
     "bestand": "lolbird24world.bat",
-    "url": "https://raw.githubusercontent.com/JOUW_GEBRUIKERSNAAM/mV5menu/main/games/lolbird24world.bat"
+    "url": "https://raw.githubusercontent.com/marinusV5/mV5menustore24/games/lolbird24world.bat"
   }
 ]
